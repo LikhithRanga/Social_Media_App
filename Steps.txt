@@ -1,0 +1,7 @@
+npm init  -y
+npm install express mongoose dotenv helmet morgan nodemon
+
+Add this under "scripts":
+    "start": "nodemon index.js",
+
+Create index.js

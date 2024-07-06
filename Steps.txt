@@ -1,3 +1,11 @@
+GIT ADDING:
+git init
+git add .
+git commit -m ""
+git remote add origin https://github.com/LikhithRanga/Social_Media_App.git
+git push -u origin main
+
+
 npm init  -y
 npm install express mongoose dotenv helmet morgan nodemon
 
@@ -5,3 +13,14 @@ Add this under "scripts":
     "start": "nodemon index.js",
 
 Create index.js
+
+
+JOHN(66891360f985750ec56d4c81) FOLLOWS VENOM(668909c4b11efb9a099a0147)
+Post man code:
+{
+    "userId":"66891360f985750ec56d4c81"
+}
+PUT url:http://localhost:8800/api/users/668909c4b11efb9a099a0147/follow
+
+NOTE: date:06/07/24
+Dont be a cunt be sure to import const User=require("../models/User")

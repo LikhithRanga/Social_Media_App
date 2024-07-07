@@ -24,3 +24,6 @@ PUT url:http://localhost:8800/api/users/668909c4b11efb9a099a0147/follow
 
 NOTE: date:06/07/24
 Dont be a cunt be sure to import const User=require("../models/User")
+
+MONGODC CLOUD LINK:
+https://cloud.mongodb.com/v2/6687c43a4ae8a2667d34ae76#/metrics/replicaSet/6687c4b5904e932800b97513/explorer/test/users/find
